@@ -7,4 +7,6 @@ With **TaskManager**, simply keep track of your tasks. This software has a user-
 - **Change status of tasks**: Change the status of each task to "done" to track your progress.
 - **Priority Color Customization**: Simply change the colors of different priorities to get a better view of your tasks.
 
+Place the "images" folder alongside the program's executable file and then launch the application.
+
 With **TaskManager**, task management has never been easier!
